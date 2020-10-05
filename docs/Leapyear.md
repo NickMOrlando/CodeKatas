@@ -1,4 +1,4 @@
-#Kata: Leap Year #
+# Kata: Leap Year
 
 ## Introduction ##
 

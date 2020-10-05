@@ -27,5 +27,3 @@ You will need to modify the Check() function in FizzBuzz project to implement th
 1. `FizzBuzz_returns_FizzBuzz_for_input_15()`
 1. `FizzBuzz_returns_FizzBuzz_for_input_30()`
 1. `FizzBuzz_returns_64_for_input_64()`
-
-## Extra Credit ##
